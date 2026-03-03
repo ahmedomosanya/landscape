@@ -1119,6 +1119,14 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/ibm
           - item:
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel-corporation.svg
+            description: Intel Corporation is a global leader in semiconductor chip manufacturing and computing innovation, providing processors and technologies that power computers, servers, and a wide variety of devices worldwide. Headquartered in Santa Clara, California, Intel drives advances in data-centric computing across cloud, network, edge, and PC platforms.
+            crunchbase: https://www.crunchbase.com/organization/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
             name: Lightning AI (member)
             homepage_url: https://lightning.ai/
             logo: lightning_ai.svg
