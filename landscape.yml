@@ -1176,6 +1176,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/snowflake-computing
           - item:
+            name: Snapchat (member)
+            homepage_url: https://www.snapchat.com/
+            logo: snapchat.svg
+            description: Snapchat is a multimedia messaging app developed by Snap Inc., headquartered in Santa Monica, California, United States. The app allows users to send photos and videos that disappear after viewing, and has evolved to include Stories, Discover, and augmented reality features.
+            crunchbase: https://www.crunchbase.com/organization/snapchat
+            twitter: https://twitter.com/Snapchat
+            extra:
+              linkedin_url: https://www.linkedin.com/company/snapchat
+          - item:
             name: Intel Corporation (member)
             homepage_url: https://intel.com/
             logo: intel-corporation.svg
