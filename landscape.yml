@@ -1105,6 +1105,15 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/huawei
           - item:
+            name: Intel Corporation (member)
+            homepage_url: https://intel.com/
+            logo: intel-corporation.svg
+            description: Intel Corporation is a multinational technology company and one of the world's largest semiconductor chip manufacturers. Intel designs and manufactures advanced integrated digital technology platforms and components for computing and communications.
+            crunchbase: https://www.crunchbase.com/organization/intel
+            twitter: https://twitter.com/intel
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
+          - item:
             name: International Business Machines Corporation (member)
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
